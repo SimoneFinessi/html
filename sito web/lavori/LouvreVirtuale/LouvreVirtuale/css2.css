@@ -1,0 +1,24 @@
+.align{
+    text-align: center;  
+}
+.bordo{
+    border:10px solid rgb(35, 35, 1);
+}
+body{
+    background-color: rgb(41, 14, 14);
+}
+img {
+ 
+    border-radius: 1000px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+body{
+    color:white;
+    font-family: Arial;
+}
+h1{
+    font-size: 200%;
+}
+    

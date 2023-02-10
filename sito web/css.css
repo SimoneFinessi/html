@@ -1,0 +1,216 @@
+
+@media(min-width:1440px){
+    .immagine{
+        width: 600px;
+    }
+    .sfondo{
+        width: 300px;
+        height:100%;
+    }
+    .progetto{
+        width: 800px;
+        margin-bottom: 20px;
+    }
+    iframe{
+        width: 600;        
+    }
+    .divfianco{
+        float: left;
+        width: 150px;
+        height: 50px;
+        border:3px solid rgb(109, 14, 14);
+        text-align: center;
+        font-size: xx-large;
+    }
+    .divcont{
+        width: 624px;
+        height: 56px;
+        margin: auto;
+    }
+}
+@media(min-width:1050px) and (max-width:1439px) {
+    .immagine{
+        width: 500px;
+    }
+    .sfondo{
+        width: 200px;
+        height:200%;
+    }
+    .progetto{
+        width: 600px;
+        margin-bottom: 20px;
+    }
+    iframe{
+        width: 500;        
+    }
+    .divfianco{
+        float: left;
+        width: 150px;
+        height: 50px;
+        border:3px solid rgb(109, 14, 14);
+        text-align: center;
+        font-size: xx-large;
+    }
+    .divcont{
+        width: 624px;
+        height: 56px;
+        margin: auto;
+    }
+}
+@media(min-width:631px) and (max-width:1049px) {
+    .immagine{
+        width: 450px;
+    }
+    .sfondo{
+        width: 0px;
+        height:0px;
+    }
+    .progetto{
+        width: 100%;
+        margin-bottom: 20px;
+    } 
+    iframe{
+        width: 450;        
+    }
+    .divfianco{
+        float: left;
+        width: 140px;
+        height: 50px;
+        border:3px solid rgb(109, 14, 14);
+        text-align: center;
+        font-size: xx-large;
+    }
+    .divcont{
+        width: 584px;
+        height: 56px;
+        margin: auto;
+    }
+}
+@media(min-width:320px) and (max-width:630px){
+    .immagine{
+        width: 300px;
+    }
+    .sfondo{
+        width: 0px;
+        height:0px;
+    }
+    .progetto{
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    iframe{
+        width: 300;        
+    }
+    .divfianco{
+        float: left;
+        width: 150px;
+        height: 50px;
+        border:3px solid rgb(109, 14, 14);
+        text-align: center;
+        font-size: xx-large;
+    }
+    .divcont{
+        width: 312px;
+        height: 112px;
+        margin: auto;
+    }
+}
+@media(max-width:319px){
+    .immagine{
+        width: 200px;
+    }
+    .sfondo{
+        width: 0px;
+        height:0px;
+    }
+    .progetto{
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    iframe{
+        width: 200;        
+    }
+    .divfianco{
+        float: left;
+        width: 150px;
+        height: 50px;
+        border:3px solid rgb(109, 14, 14);
+        text-align: center;
+        font-size: xx-large;
+    }
+    .divcont{
+        width: 146px;
+        height: 224px;
+        margin: auto;
+    }
+}
+.centrato{
+    text-align: center;
+}
+h1,h2,h3,h4{
+    text-align: center;
+    color: red;
+}
+ol,li{
+    text-align: center;
+    font-size: x-large;
+}
+pre,p{
+    text-align: center;
+    font-size: large;
+    color: white;
+}
+body{
+    background-color: black;
+    margin:0;
+}
+table,th,td{
+    border:3px solid rgb(109, 14, 14);
+    margin: auto;
+    font-size: x-large;
+    color: white;
+    background-color: black;
+}
+.maps{
+    text-align: center;
+    margin-bottom: 20px;
+}
+a{
+    text-decoration: none;
+    color: rgb(151, 7, 7);
+}
+footer{
+    color: white;
+    text-align: center;
+    width: 100%;
+    float: left;
+    background-color: rgb(11, 42, 109);
+    margin-top: 30px;
+}
+.dropbtn {
+    background-color: black;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+}
+.dropdown {
+    float: left;
+    position: fixed;
+}
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: lightgrey;
+    min-width: 200px;
+    z-index: 1;
+}
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+.dropdown-content a:hover {background-color: white;}
+.dropdown:hover .dropdown-content {display:block;}
+.dropdown:hover .dropbtn {background-color: grey;}

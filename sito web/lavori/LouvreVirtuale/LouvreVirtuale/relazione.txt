@@ -1,0 +1,13 @@
+RELAZIONE HTML
+Il file iniziale mi e stato dato da Poliseno.
+Il lavoro mi e arrivato con un solo file css che modificava solo la pagina principale e con molt spazzi presenti nella scrittura del codice principale.
+ho modificato nella pagina principale l'indentazione del codice visto che il file che mi hanno dato era praticamente privo di essa, ho pure cancellato tutti gli spazzi non neccessari.
+nel file css associato alla prima pagina ho modificato solo alcune righe di codice che non servivano e le ho cambiate con un codice più semplice e corto,
+cope per esempio quando ho ricevuto il file c'era un attributo di td che per alineare al centro il testo usava padding, l'ho modificato con text-align:center;.
+ho aggiunto l'attributo body modificando il colore di tutto in bianco e modificando il colore di sfondo in nero; oltre a questo ho anche modificato il colore della table e aggiunto un bordo colorato alle immagini.
+
+Le altre tre pagine mi sono arrivate senza un file css associato e con il tag style nella hom, tutto quello che c'era su queste pagine aveva come attributo style l'allineamento al centro.
+in queste tre pagine ho tolto il tag style e ho creato un nuovo file css cheiamato css2.css che andava a prendere tutte le modifiche di stile inserite nel file html, ci ho aggiunto dei bordi colorati e arrotondati alle immagini, ho tolto il fatto che le immagini mandassero alla pagina wikipedia se cliccate e ho messo che con un click si ingrandiscono e con due tornano alla dimensione originale, all'inizio il pezzo di testo presente in queste pagine era contenuno nel tag <div> cambiato da me nel tag <p> con l'aiuto del tag <br> per mandare a capo.
+nel file css ho aggiunto delle classi che vengono associate e richiamate nel file HTML quando servono,in questo file ho pure aggiunto dei codici per cambiare il colore dello sfondo e per arrotondare le immagini con un bordo colorato.
+
+a tutte le pagine e stato dato il carattere Arial.

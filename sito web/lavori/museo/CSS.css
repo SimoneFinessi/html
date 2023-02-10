@@ -1,0 +1,20 @@
+table,th,td {
+    border: 1px solid black;
+}
+td {
+    font-size: 150%;
+}
+th {
+    font-size: 200%;
+}
+tr{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    color:red;
+}
+p{
+    text-align: center;
+    font-size: 200%;
+}

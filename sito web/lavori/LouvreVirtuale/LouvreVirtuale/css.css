@@ -1,0 +1,36 @@
+#titolo {
+    font-size: 50px;
+    text-align: center;
+    font-family: Arial;
+    }
+img {
+    border:3px solid rgb(109, 14, 14);
+    margin-left: auto;
+    margin-right: auto;
+    }
+table, th, td{
+    border:3px solid rgb(109, 14, 14);
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    font-family: Arial;
+    text-align: center;
+  }
+td {
+   text-align: center;
+}
+a{
+    color:blue;
+}
+li {
+    font-family: Arial;
+}
+.paragrafo {
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 19px;
+}
+body{
+    color:white;
+    background-color: black;
+}
